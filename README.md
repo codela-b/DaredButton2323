@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DaredButton2323
-- 👀 I’m interested in programming with Python, C# and Java
-- 🌱 I’m currently learning how to program in Visual Basic
+- 👀 I’m interested in programming with Python and Java
+- 🌱 I’m currently learning how to program in C#
 .
 
 <!---
